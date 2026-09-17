@@ -1,9 +1,9 @@
 # About Me
-Hello world! My name is Carmen and I'm currently studying **front end web development**. I'm interested in **UX/UI design**, **web design** and **content management**. I look forward to learning as much as I can from both my classes and the GitHub community to jumpstart my career in this field.
+Hello, world! My name is Carmen and I'm currently studying **front end web development**. I'm interested in **UX/UI design**, **web design** and **content management**. I look forward to learning as much as I can from my classes and the GitHub community.
 
 ## Tools and Technologies
 
-I used Drupal 7 and 8 extensively as part of a web migration project a few years ago which is what sparked my interest in web design. As I progress through my courses I will learn HTML and CSS as well as techniques in the UX process and web development tools. Spoiler alert - I'm also learning to use Git. 
+I used Drupal 7 and 8 extensively as part of a web migration project which is what sparked my interest in web design. As I progress through my courses I will learn HTML and CSS as well as techniques in the UX process and web development tools. Spoiler alert, I'm also learning to use Git. 
 
 ## Skills and Interests
 
@@ -16,7 +16,7 @@ My professional background is in higher education and study abroad. My individua
 * Adaptability
 * Emotional intelligence and empathy
 
-I know the skills I have developed and refined over the years will be invaluable when entering the world of web development and design, and I can't wait to grow more through my courses and career.
+These skills, and others I have developed and refined over the years, will be invaluable when entering the world of web development and design and I can't wait to grow more through my courses and career.
 
 ### Interests
 
